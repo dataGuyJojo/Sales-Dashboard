@@ -1,4 +1,5 @@
-#**Sales data of a credit card company**#
+**Sales data of a credit card company**
+
 **PowerBI Project**
 
 The notebook jumps in detail onto the sales data of a credit-card-selling company. The project has mainly two dashboards. One to detect customer trends(Customer Dashboard). Another to detect company trends (Transaction Dashboards)
