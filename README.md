@@ -12,17 +12,18 @@ This project was a great oppurtunity for me to learn and apply data visualizatio
 
 **I have learnt and used**
 
-*Dax Query
-*Use of Filters and Slicers
-*Different Charts
-*New Columns and measures
-*Eye Pleasing Dashboard Building
-*Filters Used:
+1. Dax Query
+2. Use of Filters and Slicers
+3. Different Charts
+4. New Columns and measures
+5. Eye Pleasing Dashboard Building
+6. Filters Used:
 
 
 **Week based reporting**
-*Income level (Low, Med, High)
-*Different Cards (Blue, Platinum, Gold)
-*Different Quarters of year
-*Gender
+1. Income level (Low, Med, High)
+2. Different Cards (Blue, Platinum, Gold)
+3. Different Quarters of year
+4. Gender
+
 Here the income groups were created based on Dax Queries. TreeMaps were used to help create Filters.
