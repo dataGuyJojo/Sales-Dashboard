@@ -1,38 +1,79 @@
-**Sales data of a credit card company**
+# 💳 Credit Card Customer & Transaction Analysis Dashboard
 
-**PowerBI Project**
+This project presents an interactive Power BI dashboard that analyzes credit card customer demographics and transaction data to uncover revenue trends, customer behaviors, and business insights.
 
-The notebook jumps in detail onto the sales data of a credit-card-selling company. The project has mainly two dashboards. One to detect customer trends(Customer Dashboard). Another to detect company trends (Transaction Dashboards)
+![Credit Card Customer Report](./02bfd378-0b3e-4134-a1a3-cf17b568e141.png)
+![Credit Card Transaction Report](./3feb9b41-d9a0-47ad-9b87-202ce6de9645.png)
 
-The Dashboards filter, accordingly when a filter is chosen.
+---
 
-The content is taken from a youtube tutorial, that goes deep into data analysis with powerBI.
-***I did not follow the tutorial word for word. I added my own twists***
-This project was a great opportunity for me to learn and apply data visualization skills to a real project.
+## 📌 Project Overview
 
+The goal of this project is to analyze **credit card usage patterns** across different customer segments using Power BI. It focuses on both customer profiles and transaction trends to help businesses make data-driven decisions regarding revenue generation and customer targeting.
 
-**I have learned and used**
+---
 
-1. Dax Query
-2. Use of Filters and Slicers
-3. Different Charts
-4. New Columns and measures
-5. Eye Pleasing Dashboard Building
-6. Filters Used:
+## 📊 Key Features
 
+### **Customer Report**
+- Revenue distribution by age, income, education, and job type  
+- Demographic insights: homeowners, loan holders, car owners  
+- State-wise revenue trends  
+- Weekly revenue tracking and satisfaction metrics  
 
-**Week-based reporting**
-1. Income level (Low, Med, High)
-2. Different Cards (Blue, Platinum, Gold)
-3. Different Quarters of year
-4. Gender
+### **Transaction Report**
+- Revenue by customer job and expense type  
+- CAC (Customer Acquisition Cost) analysis by card type and usage  
+- Card category performance (Blue, Silver, Gold, Platinum)  
+- Quarterly revenue comparison with total transaction counts  
 
-Here the income groups were created based on Dax Queries. TreeMaps were used to help create Filters.
+---
 
-Dashboards:
-![image](https://github.com/user-attachments/assets/0fdb1f01-d0cc-4384-8f1e-a9828c976f31)
+## 📁 Dataset
 
-![image](https://github.com/user-attachments/assets/385efad9-c578-4fc6-a88d-c7189030c7be)
+- The dataset used: `cust_add.csv`  
+- Contains information such as:
+  - Customer demographics (job, education, age group)
+  - Revenue data
+  - Credit card usage and transaction metrics  
 
+📂 [Click here to view the dataset on GitHub](https://github.com/dataGuyJojo/Sales-Dashboard/blob/main/cust_add.csv)
 
+---
 
+## 🧰 Tools Used
+
+- **Power BI** – for creating interactive dashboards and data visualization  
+- **Excel** – for preliminary data cleaning and organization  
+- **SQL** *(optional in future updates)* – can be used for scalable data querying in larger datasets
+
+---
+
+## 📈 Insights Gained
+
+- High-income groups and middle-aged customers generate the most revenue  
+- Business professionals and white-collar workers contribute the highest revenue  
+- Swipe transactions dominate CAC usage  
+- Blue card category is the top performer in terms of both revenue and usage  
+
+---
+
+## 📌 How to Use
+
+1. Download the `.pbix` file (available upon request or in future commit)
+2. Open with Power BI Desktop
+3. Explore filters to view trends across age, gender, quarter, card category, and more
+
+---
+
+## 📬 Contact
+
+If you have any questions or suggestions:
+
+**Md Jojo**  
+📧 dataguyjojo@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) *(update with your real URL)*
+
+---
+
+⭐ *If you found this project helpful, feel free to star the repo or share it with others interested in data analytics!*
