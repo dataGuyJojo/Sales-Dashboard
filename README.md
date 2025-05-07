@@ -14,7 +14,7 @@ The Customer Report
 
 ## 📌 Project Overview
 
-The goal of this project is to analyze **credit card usage patterns** across different customer segments using Power BI. It focuses on both customer profiles and transaction trends to help businesses make data-driven decisions regarding revenue generation and customer targeting.
+The goal of this project is to analyze **credit card usage patterns** across different customer segments using Power BI. It focuses on both customer profiles and transaction trends to help businesses make data-driven decisions regarding revenue generation and customer targeting. It was a follow-along project, but I added my own touches.
 
 
 
@@ -75,9 +75,9 @@ The goal of this project is to analyze **credit card usage patterns** across dif
 
 If you have any questions or suggestions:
 
-**Md Jojo**  
-📧 dataguyjojo@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) *(update with your real URL)*
+**Syed Asif Johan**  
+📧 connect.syedasifjohan@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/syed-asif-johan-0a4888292/)
 
 ---
 
