@@ -28,3 +28,11 @@ This project was a great opportunity for me to learn and apply data visualizatio
 4. Gender
 
 Here the income groups were created based on Dax Queries. TreeMaps were used to help create Filters.
+
+Dashboards:
+![image](https://github.com/user-attachments/assets/0fdb1f01-d0cc-4384-8f1e-a9828c976f31)
+
+![image](https://github.com/user-attachments/assets/385efad9-c578-4fc6-a88d-c7189030c7be)
+
+
+
