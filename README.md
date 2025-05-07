@@ -2,13 +2,15 @@
 
 This project presents an interactive Power BI dashboard that analyzes credit card customer demographics and transaction data to uncover revenue trends, customer behaviors, and business insights.
 
+The Transaction Report
 ![image](https://github.com/user-attachments/assets/19a91b0e-db08-4eec-9efa-a7d067b3ee6c)
 
+The Customer Report
 ![image](https://github.com/user-attachments/assets/fa46cee8-124a-44d9-8505-b0bc7f29aaa7)
 
 
 
----
+
 
 ## 📌 Project Overview
 
